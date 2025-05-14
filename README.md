@@ -1,6 +1,6 @@
 Here’s a cleaned-up and styled version formatted for a `README.md`, with a call to subscribe to your YouTube channel:
 
-````markdown
+
 # 🛠️ How to Take Ownership and Delete a Locked Folder in Windows | TrustedInstaller
 
 Sometimes, system folders are protected by **TrustedInstaller**, preventing deletion or modification. Here's how to take ownership and remove such folders safely.
