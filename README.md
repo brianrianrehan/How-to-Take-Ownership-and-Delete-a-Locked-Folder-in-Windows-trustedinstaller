@@ -1,5 +1,3 @@
-Here’s a cleaned-up and styled version formatted for a `README.md`, with a call to subscribe to your YouTube channel:
-
 
 # 🛠️ How to Take Ownership and Delete a Locked Folder in Windows | TrustedInstaller
 
@@ -55,7 +53,4 @@ If the folder remains locked, try using a third-party tool like **Unlocker** to 
 
 > ⚠️ **Warning:** Deleting system folders like `E:\Windows` can make your system unstable or unbootable. Only do this if you absolutely know what you're doing!
 
-```
 
-Let me know if you want a version in **Indonesian** or with badges and icons!
-```
